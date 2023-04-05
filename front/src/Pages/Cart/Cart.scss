@@ -18,17 +18,31 @@
 
 .cartItem img {
   width: 200px;
+  margin-left: 50px;
 }
 
 .cartItem .description {
   width: 100%;
   font-size: 30px;
+  margin-left: 200px;
+}
+
+.countHandler button {
+  border-radius: 5px;
+  color: #ffff;
+  background-color: black;
 }
 
 .countHandler input {
-  width: 40px;
+  width: 60px;
   text-align: center;
   font-weight: bolder;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.subtotal h6 {
+  text-align: center;
 }
 
 .checkout button {

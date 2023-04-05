@@ -8,7 +8,7 @@ import product6 from "./Assets/saddle6.jpg";
 export const PRODUCTS = [
   {
     id: 1,
-    productName: "saddle1",
+    productName: "fawn saddle",
     price: 55000.0,
     productImage: product1,
   },
@@ -16,30 +16,30 @@ export const PRODUCTS = [
     id: 2,
     productName: "saddle2",
     price: 25000.0,
-    productImage: product2,
+    productImage: product1,
   },
   {
     id: 3,
     productName: "saddle3",
     price: 65000.0,
-    productImage: product3,
+    productImage: product1,
   },
   {
     id: 4,
     productName: "saddle4",
     price: 10000.0,
-    productImage: product4,
+    productImage: product1,
   },
   {
     id: 5,
-    productName: "saddle5",
+    productName: "show jumping saddle",
     price: 22000.0,
-    productImage: product5,
+    productImage: product1,
   },
   {
     id: 6,
-    productName: "saddle6",
+    productName: "chestnut saddle",
     price: 25000.0,
-    productImage: product6,
+    productImage: product1,
   },
 ];

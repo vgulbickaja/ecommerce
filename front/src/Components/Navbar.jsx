@@ -6,6 +6,7 @@ export const Navbar = () => {
   return (
     <div className="navbar">
       <div className="links">
+        <Link to="/home">Home</Link>
         <Link to="/">Shop</Link>
         <Link to="/cart">
           <ShoppingCart size={32} />
